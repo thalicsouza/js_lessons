@@ -6,8 +6,6 @@ let agora = new Date()
 let idade = agora.getFullYear() - ano_nascimento
 
 console.log("Meu nome é " + nome + " e tenho " + idade + " anos de idade.")
-/*console.log(agora)
-console.log(Date())*/
 
 /*estruturas de decisão*/
 if(idade >= 18){
